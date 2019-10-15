@@ -16,7 +16,7 @@ app.use(express.json());
 
 //points the server to "route" files.
 // require("./routing/apiRoutes")(app);
-require("./routing/htmlRoutes")(app);
+require("./app/routing/htmlRoutes")(app);
 
 
 // LISTENER - "starts" our server
