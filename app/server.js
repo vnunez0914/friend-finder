@@ -15,7 +15,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 //points the server to "route" files.
-require("./routing/apiRoutes")(app);
+// require("./routing/apiRoutes")(app);
 require("./routing/htmlRoutes")(app);
 
 
