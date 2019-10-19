@@ -14,7 +14,16 @@ This full-stack site will take in results from the users' surveys, then compare 
 
    * [heroku](https://www.heroku.com/)
    
- 
+
+  # Demo Link 
+
+    * [Pokemon Friend Finder](https://fierce-shore-92219.herokuapp.com/)
+
+    * Paste this image in required field to view demo 
+
+        (https://assets.pokemon.com/assets/cms2/img/pokedex/detail/010.png)
+
+
  # Technologies Used
  
 * Javascript/jQuery
@@ -28,8 +37,6 @@ This full-stack site will take in results from the users' surveys, then compare 
 # Issues
 
 * The app currently does not match after taking the survey. Will update with an screenshot/video when it is fixed. 
-
-* Spotify command and do-what-it-says is still in development. Will update and remove from README when fixed
 
 
 # Future Developments:
